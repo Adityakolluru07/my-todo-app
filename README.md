@@ -10,4 +10,4 @@ This is a simple To-Do List application built with React. It allows users to add
 
 ## Demo
 
-![To-Do List Demo](https://adityakolluru07.github.io/my-todo-app/)
+[To-Do List Demo Link](https://adityakolluru07.github.io/my-todo-app/)
